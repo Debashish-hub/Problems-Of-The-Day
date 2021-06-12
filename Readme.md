@@ -7,9 +7,9 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 ## Geeks For Geeks
 
-[Intersection_point_in_Y_shaped_linkedlist](GeeksForGeeks/Intersection_point_in_Y_shaped_linkedlist.cpp)
+[Intersection point in Y shaped linkedlist](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/Intersection_point_in_Y_shaped_linkedlist.cpp)
 
 
 ## LeetCode
 
-[Minimum_No_of_Refueling_stops](LeetCode/Minimum_No_of_Refueling_stops.cpp)
+[Minimum No of Refueling stops](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/Minimum_No_of_Refueling_stops.cpp)
