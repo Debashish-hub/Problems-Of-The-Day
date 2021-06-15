@@ -13,6 +13,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Stock Span Problem](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/StockSpanProblem.cpp)
 
+[Rearrange Charecters](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/RearrangeCharecters.cpp)
+
 
 ## LeetCode
 
@@ -21,3 +23,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Palindrome Pairs](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/PalindromePairs.cpp)
 
 [Maximum Units On A Truck](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MaximumUnitsOnaTruck.cpp)
+
+[Match Stick to square](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MatchstickToSquare.cpp)
