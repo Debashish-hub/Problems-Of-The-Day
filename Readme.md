@@ -15,6 +15,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Rearrange Charecters](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/RearrangeCharecters.cpp)
 
+[Circular Tour](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/CircularTour.cpp)
+
 
 ## LeetCode
 
@@ -25,3 +27,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Maximum Units On A Truck](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MaximumUnitsOnaTruck.cpp)
 
 [Match Stick to square](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MatchstickToSquare.cpp)
+
+[Generate Parenthesis](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/GenerateParenthesis.cpp)
