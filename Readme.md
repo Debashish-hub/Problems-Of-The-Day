@@ -17,6 +17,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Circular Tour](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/CircularTour.cpp)
 
+[Diameter of a Binary Tree](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/DiameterOfaBinaryTree.cpp)
+
 
 ## LeetCode
 
@@ -29,3 +31,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Match Stick to square](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MatchstickToSquare.cpp)
 
 [Generate Parenthesis](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/GenerateParenthesis.cpp)
+
+[Number of Subarrays with bounded maximum](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/NumberOfSubarraysWithBoundedMax..cpp)
