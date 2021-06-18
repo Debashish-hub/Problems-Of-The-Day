@@ -19,6 +19,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Diameter of a Binary Tree](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/DiameterOfaBinaryTree.cpp)
 
+[Maximum Path Sum between 2 leaf nodes](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MaximumPathSumBetween2LeafNodes.cpp)
+
 
 ## LeetCode
 
@@ -32,4 +34,6 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Generate Parenthesis](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/GenerateParenthesis.cpp)
 
-[Number of Subarrays with bounded maximum](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/NumberOfSubarraysWithBoundedMax..cpp)
+[Number of Subarrays with bounded maximum](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/NumberOfSubarraysWithBoundedMax.cpp)
+
+[Range Sum Query - Mutable](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/RangeSumQueryMutable.cpp)
