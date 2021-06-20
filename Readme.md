@@ -23,6 +23,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Queue Using Stack](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/QueueUingStack.cpp)
 
+[Merge Two BST's](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MergeTwoBST's.cpp)
+
 
 ## LeetCode
 
@@ -41,3 +43,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Range Sum Query - Mutable](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/RangeSumQueryMutable.cpp)
 
 [K Inverse Pairs Array](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/KInversePairsArray.cpp)
+
+[Swim In Rising Water](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/SwimInRisingWater.cpp)
