@@ -25,6 +25,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Merge Two BST's](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MergeTwoBST's.cpp)
 
+[Strongly Connected Components (Kosaraju's Algorithm)](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/StronglyConnectedComponentsKosarajusAlgo.cpp)
+
 
 ## LeetCode
 
@@ -45,3 +47,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [K Inverse Pairs Array](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/KInversePairsArray.cpp)
 
 [Swim In Rising Water](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/SwimInRisingWater.cpp)
+
+[Pascal's Triangle](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/Pascal'sTriangle.cpp)
