@@ -27,6 +27,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Strongly Connected Components (Kosaraju's Algorithm)](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/StronglyConnectedComponentsKosarajusAlgo.cpp)
 
+[Detect Cycle in a Directed Graph](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/DetectCycleInDirectedGraph.cpp)
+
 
 ## LeetCode
 
@@ -49,3 +51,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Swim In Rising Water](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/SwimInRisingWater.cpp)
 
 [Pascal's Triangle](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/Pascal'sTriangle.cpp)
+
+[No of Matching subsequence](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/NumberOfMatchingSubsequence.cpp)
