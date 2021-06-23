@@ -29,6 +29,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Detect Cycle in a Directed Graph](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/DetectCycleInDirectedGraph.cpp)
 
+[Word Boggle II](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/WordBoggle2.cpp)
+
 
 ## LeetCode
 
@@ -53,3 +55,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Pascal's Triangle](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/Pascal'sTriangle.cpp)
 
 [No of Matching subsequence](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/NumberOfMatchingSubsequence.cpp)
+
+[Reverse Linked list II](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ReverseLL2.cpp)
