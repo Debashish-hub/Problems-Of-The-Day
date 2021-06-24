@@ -31,6 +31,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Word Boggle II](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/WordBoggle2.cpp)
 
+[Maximize Toys](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MaximizeToys.cpp)
+
 
 ## LeetCode
 
@@ -57,3 +59,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [No of Matching subsequence](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/NumberOfMatchingSubsequence.cpp)
 
 [Reverse Linked list II](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ReverseLL2.cpp)
+
+[Out of Boundary Paths](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/OutOfBoundaryPaths.cpp)
