@@ -35,6 +35,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Water The Plants](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/WaterThePlants.cpp)
 
+[Maximize The Cuts](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MaximizeTheCutSegments..cpp)
+
 
 ## LeetCode
 
@@ -63,3 +65,7 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Reverse Linked list II](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ReverseLL2.cpp)
 
 [Out of Boundary Paths](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/OutOfBoundaryPaths.cpp)
+
+[Redundant Connection](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/RedundantConnection.cpp)
+
+[Count Of Smaller Numbers After Self](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/CountOfSmallerNumbersAfterSelf.cpp)
