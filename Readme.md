@@ -35,7 +35,9 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Water The Plants](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/WaterThePlants.cpp)
 
-[Maximize The Cuts](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MaximizeTheCutSegments..cpp)
+[Maximize The Cuts](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MaximizeTheCutSegments.cpp)
+
+[Longest Common Substring](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/LongestCommonSubstring.cpp)
 
 
 ## LeetCode
@@ -69,3 +71,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Redundant Connection](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/RedundantConnection.cpp)
 
 [Count Of Smaller Numbers After Self](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/CountOfSmallerNumbersAfterSelf.cpp)
+
+[Candy](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/Candy.cpp)
