@@ -39,6 +39,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Longest Common Substring](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/LongestCommonSubstring.cpp)
 
+[Special Keys](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/SpecialKeys.cpp)
+
 
 ## LeetCode
 
@@ -73,3 +75,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Count Of Smaller Numbers After Self](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/CountOfSmallerNumbersAfterSelf.cpp)
 
 [Candy](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/Candy.cpp)
+
+[Remove All Adjacent Duplicates In A String](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/RemoveAllAdjacentDuplicatesInAString.cpp)
