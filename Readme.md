@@ -41,6 +41,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Special Keys](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/SpecialKeys.cpp)
 
+[Rat In A Maze Problem 1](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/RatInAMazeProblem1.cpp)
+
 
 ## LeetCode
 
@@ -77,3 +79,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Candy](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/Candy.cpp)
 
 [Remove All Adjacent Duplicates In A String](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/RemoveAllAdjacentDuplicatesInAString.cpp)
+
+[Max Consecutive Ones 3](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MaxConsecutiveOnes3.cpp)
