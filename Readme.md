@@ -45,6 +45,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Find all possible palindromic partitions of a String](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/FindallpossiblepalindromicpartitionsofaString.cpp)
 
+[LRU Cache](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/LRUCache.cpp)
+
 
 ## LeetCode
 
@@ -85,3 +87,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Max Consecutive Ones 3](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MaxConsecutiveOnes3.cpp)
 
 [Lowest Common Ancestor Of A Binary Tree](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/LowestCommonAncestorOfABinaryTree.cpp)
+
+[Cup Stack](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/CupStack.cpp)
