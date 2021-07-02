@@ -47,6 +47,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [LRU Cache](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/LRUCache.cpp)
 
+[A Simple Fraction](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/ASimpleFraction.cpp)
+
 
 ## LeetCode
 
@@ -89,3 +91,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Lowest Common Ancestor Of A Binary Tree](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/LowestCommonAncestorOfABinaryTree.cpp)
 
 [Cup Stack](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/CupStack.cpp)
+
+[Find K Closest Elements](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/FindKClosestElements.cpp)
