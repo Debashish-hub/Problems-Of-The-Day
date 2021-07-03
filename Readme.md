@@ -49,6 +49,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [A Simple Fraction](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/ASimpleFraction.cpp)
 
+[Plus One](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/PlusOne.cpp)
+
 
 ## LeetCode
 
@@ -93,3 +95,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Cup Stack](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/CupStack.cpp)
 
 [Find K Closest Elements](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/FindKClosestElements.cpp)
+
+[Max Sum of Rectangle](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MaxSumofRectangle.cpp)
