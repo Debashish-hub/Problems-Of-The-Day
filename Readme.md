@@ -51,6 +51,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Plus One](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/PlusOne.cpp)
 
+[Max Circular Subarray Sum](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MaxCircularSubarraySum.cpp)
+
 
 ## LeetCode
 
@@ -97,3 +99,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Find K Closest Elements](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/FindKClosestElements.cpp)
 
 [Max Sum of Rectangle](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MaxSumofRectangle.cpp)
+
+[Count Vowels Permutation](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/CountVowelsPermutation.cpp)
