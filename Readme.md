@@ -53,6 +53,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Max Circular Subarray Sum](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MaxCircularSubarraySum.cpp)
 
+[Stock Buy Sell](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/StockBuySell.cpp)
+
 
 ## LeetCode
 
@@ -101,3 +103,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Max Sum of Rectangle](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MaxSumofRectangle.cpp)
 
 [Count Vowels Permutation](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/CountVowelsPermutation.cpp)
+
+[Reshape The Matrix](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ReshapeTheMatrix.cpp)
