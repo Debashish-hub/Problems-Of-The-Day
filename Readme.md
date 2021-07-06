@@ -55,6 +55,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Stock Buy Sell](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/StockBuySell.cpp)
 
+[The Painter's Partition Problem](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/ThePainter'sPartitionProblem.cpp)
+
 
 ## LeetCode
 
@@ -105,3 +107,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Count Vowels Permutation](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/CountVowelsPermutation.cpp)
 
 [Reshape The Matrix](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ReshapeTheMatrix.cpp)
+
+[Reduce Array Size to Half](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ReduceArraySizetoHalf.cpp)
