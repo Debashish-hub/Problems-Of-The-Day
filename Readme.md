@@ -57,6 +57,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [The Painter's Partition Problem](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/ThePainter'sPartitionProblem.cpp)
 
+[Leftmost and Rightmost Index](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/LeftmostandRightmostIndex.cpp)
+
 
 ## LeetCode
 
@@ -109,3 +111,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Reshape The Matrix](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ReshapeTheMatrix.cpp)
 
 [Reduce Array Size to Half](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ReduceArraySizetoHalf.cpp)
+
+[Kth Smallest Element in a Sorted Matrix](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/KthSmallestElementinaSortedMatrix.cpp)
