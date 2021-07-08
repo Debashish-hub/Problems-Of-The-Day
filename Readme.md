@@ -59,6 +59,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Leftmost and Rightmost Index](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/LeftmostandRightmostIndex.cpp)
 
+[Minimum Platforms](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MinimumPlatforms.cpp)
+
 
 ## LeetCode
 
@@ -113,3 +115,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Reduce Array Size to Half](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ReduceArraySizetoHalf.cpp)
 
 [Kth Smallest Element in a Sorted Matrix](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/KthSmallestElementinaSortedMatrix.cpp)
+
+[Maximum Length of Repeated Subarray](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MaximumLengthofRepeatedSubarray.cpp)
