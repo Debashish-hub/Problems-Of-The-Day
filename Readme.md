@@ -61,6 +61,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Minimum Platforms](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MinimumPlatforms.cpp)
 
+[Sorta 2D Vector Diagonally](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/Sorta2DVectorDiagonally.cpp)
+
 
 ## LeetCode
 
@@ -117,3 +119,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Kth Smallest Element in a Sorted Matrix](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/KthSmallestElementinaSortedMatrix.cpp)
 
 [Maximum Length of Repeated Subarray](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MaximumLengthofRepeatedSubarray.cpp)
+
+[Longest Increasing Subsequence](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/LongestIncreasingSubsequence.cpp)
