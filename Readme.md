@@ -63,6 +63,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Sorta 2D Vector Diagonally](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/Sorta2DVectorDiagonally.cpp)
 
+[Validate an IP Address](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/ValidateanIPAddress.cpp)
+
 
 ## LeetCode
 
@@ -121,3 +123,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Maximum Length of Repeated Subarray](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MaximumLengthofRepeatedSubarray.cpp)
 
 [Longest Increasing Subsequence](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/LongestIncreasingSubsequence.cpp)
+
+[Decode Ways II](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/DecodeWaysII.cpp)
