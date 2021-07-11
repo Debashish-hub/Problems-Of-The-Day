@@ -65,6 +65,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Validate an IP Address](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/ValidateanIPAddress.cpp)
 
+[Implement Atoi](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/ImplementAtoi.cpp)
+
 
 ## LeetCode
 
@@ -125,3 +127,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Longest Increasing Subsequence](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/LongestIncreasingSubsequence.cpp)
 
 [Decode Ways II](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/DecodeWaysII.cpp)
+
+[Find Median From Data Stream](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/FindMedianFromDataStream.cpp)
