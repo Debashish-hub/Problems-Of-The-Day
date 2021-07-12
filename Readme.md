@@ -67,6 +67,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Implement Atoi](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/ImplementAtoi.cpp)
 
+[Length Of Longest Substring](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/LengthOfLongestSubstring.cpp)
+
 
 ## LeetCode
 
@@ -129,3 +131,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Decode Ways II](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/DecodeWaysII.cpp)
 
 [Find Median From Data Stream](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/FindMedianFromDataStream.cpp)
+
+[Isomorphic Strings](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/IsomorphicStrings.cpp)
