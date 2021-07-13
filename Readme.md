@@ -69,6 +69,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Length Of Longest Substring](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/LengthOfLongestSubstring.cpp)
 
+[Subarrays With Sum K](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/SubarraysWithSumK.cpp)
+
 
 ## LeetCode
 
@@ -133,3 +135,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Find Median From Data Stream](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/FindMedianFromDataStream.cpp)
 
 [Isomorphic Strings](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/IsomorphicStrings.cpp)
+
+[Find Peak Element](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/FindPeakElement.cpp)
