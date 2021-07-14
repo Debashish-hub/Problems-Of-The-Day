@@ -71,6 +71,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Subarrays With Sum K](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/SubarraysWithSumK.cpp)
 
+[Find Element That Appears Once](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/FindElementThatAppearsOnce.cpp)
+
 
 ## LeetCode
 
@@ -137,3 +139,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Isomorphic Strings](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/IsomorphicStrings.cpp)
 
 [Find Peak Element](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/FindPeakElement.cpp)
+
+[Custom Sort String](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/CustomSortString.cpp)
