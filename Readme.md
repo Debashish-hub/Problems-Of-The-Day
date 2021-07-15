@@ -73,6 +73,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Find Element That Appears Once](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/FindElementThatAppearsOnce.cpp)
 
+[Bit Difference](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/BitDifference.cpp)
+
 
 ## LeetCode
 
@@ -141,3 +143,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Find Peak Element](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/FindPeakElement.cpp)
 
 [Custom Sort String](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/CustomSortString.cpp)
+
+[Valid Triangle Number](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ValidTriangleNumber.cpp)
