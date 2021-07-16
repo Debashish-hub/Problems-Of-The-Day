@@ -75,6 +75,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Bit Difference](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/BitDifference.cpp)
 
+[Add 2 Numbers Represented By Linked list](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/Add2NumbersRepresentedByLinkedlist.cpp)
+
 
 ## LeetCode
 
@@ -145,3 +147,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Custom Sort String](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/CustomSortString.cpp)
 
 [Valid Triangle Number](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ValidTriangleNumber.cpp)
+
+[4 Sum](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/4Sum.cpp)
