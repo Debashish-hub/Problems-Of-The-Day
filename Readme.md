@@ -77,6 +77,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Add 2 Numbers Represented By Linked list](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/Add2NumbersRepresentedByLinkedlist.cpp)
 
+[Rearrange A Linked List](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/RearrangeALinkedList.cpp)
+
 
 ## LeetCode
 
@@ -149,3 +151,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Valid Triangle Number](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ValidTriangleNumber.cpp)
 
 [4 Sum](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/4Sum.cpp)
+
+[Three Equal Parts](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ThreeEqualParts.cpp)
