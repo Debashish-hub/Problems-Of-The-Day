@@ -79,6 +79,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Rearrange A Linked List](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/RearrangeALinkedList.cpp)
 
+[The Celebrity Problem](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/TheCelebrityProblem.cpp)
+
 
 ## LeetCode
 
@@ -153,3 +155,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [4 Sum](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/4Sum.cpp)
 
 [Three Equal Parts](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ThreeEqualParts.cpp)
+
+[Reverse Nodes In K Group](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ReverseNodesInKGroup.cpp)
