@@ -81,6 +81,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [The Celebrity Problem](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/TheCelebrityProblem.cpp)
 
+[Geeky Buildings](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/GeekyBuildings.cpp)
+
 
 ## LeetCode
 
@@ -157,3 +159,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Three Equal Parts](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ThreeEqualParts.cpp)
 
 [Reverse Nodes In K Group](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ReverseNodesInKGroup.cpp)
+
+[Lowest Common Ancestor of BST](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/LowestCommonAncestorofBST.cpp)
