@@ -83,6 +83,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Geeky Buildings](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/GeekyBuildings.cpp)
 
+[Merge K Sorted Arrays](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MergeKSortedArrays.cpp)
+
 
 ## LeetCode
 
@@ -161,3 +163,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Reverse Nodes In K Group](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ReverseNodesInKGroup.cpp)
 
 [Lowest Common Ancestor of BST](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/LowestCommonAncestorofBST.cpp)
+
+[Shuffle An Array](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ShuffleAnArray.cpp)
