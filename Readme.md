@@ -87,6 +87,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Boundary Traversal Of a Binary Tree](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/BoundaryTraversalOfaBinaryTree.cpp)
 
+[Inorder Traversal Iterative](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/InorderTraversalIterative.cpp)
+
 
 ## LeetCode
 
@@ -169,3 +171,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Shuffle An Array](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ShuffleAnArray.cpp)
 
 [Push Dominoes](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/PushDominoes.cpp)
+
+[Partition Array Into Disjoint Intervals](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/PartitionArrayIntoDisjointIntervals.cpp)
