@@ -91,6 +91,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Circle Of Strings](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/CircleOfStrings.cpp)
 
+[Preorder Traversal & BST](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/PreorderTraversal&BST.cpp)
+
 
 ## LeetCode
 
@@ -177,3 +179,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Partition Array Into Disjoint Intervals](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/PartitionArrayIntoDisjointIntervals.cpp)
 
 [Binary Tree Prunning](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/BinaryTreePrunning.cpp)
+
+[Word Ladder 2](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/WordLadder2.cpp)
