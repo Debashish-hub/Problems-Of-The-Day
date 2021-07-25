@@ -93,6 +93,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Preorder Traversal & BST](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/PreorderTraversal&BST.cpp)
 
+[Fixing Two Nodes Of A BST](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/FixingTwoNodesOfABST.cpp)
+
 
 ## LeetCode
 
@@ -181,3 +183,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Binary Tree Prunning](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/BinaryTreePrunning.cpp)
 
 [Word Ladder 2](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/WordLadder2.cpp)
+
+[Non Negative Integers Without Consecutive Ones](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/NonNegativeIntegersWithoutConsecutiveOnes.cpp)
