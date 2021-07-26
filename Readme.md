@@ -95,6 +95,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Fixing Two Nodes Of A BST](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/FixingTwoNodesOfABST.cpp)
 
+[Most Frequent Word In An Array Of Strings](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MostFrequentWordInAnArrayOfStrings.cpp)
+
 
 ## LeetCode
 
@@ -185,3 +187,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Word Ladder 2](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/WordLadder2.cpp)
 
 [Non Negative Integers Without Consecutive Ones](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/NonNegativeIntegersWithoutConsecutiveOnes.cpp)
+
+[Convert Sorted Array to BST](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ConvertSortedArraytoBST.cpp)
