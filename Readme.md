@@ -97,6 +97,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Most Frequent Word In An Array Of Strings](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MostFrequentWordInAnArrayOfStrings.cpp)
 
+[Clone A Linked List & Next Random Pointer](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/CloneALinkedList&NextRandomPointer.cpp)
+
 
 ## LeetCode
 
@@ -189,3 +191,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Non Negative Integers Without Consecutive Ones](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/NonNegativeIntegersWithoutConsecutiveOnes.cpp)
 
 [Convert Sorted Array to BST](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ConvertSortedArraytoBST.cpp)
+
+[3 Sum Closest](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/3SumClosest.cpp)
