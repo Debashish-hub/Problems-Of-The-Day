@@ -99,6 +99,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Clone A Linked List & Next Random Pointer](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/CloneALinkedList&NextRandomPointer.cpp)
 
+[Job Sequencing Problem](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/JobSequencingProblem.cpp)
+
 
 ## LeetCode
 
@@ -193,3 +195,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Convert Sorted Array to BST](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/ConvertSortedArraytoBST.cpp)
 
 [3 Sum Closest](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/3SumClosest.cpp)
+
+[Beautiful Array](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/BeautifulArray.cpp)
