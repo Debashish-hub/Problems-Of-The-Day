@@ -101,6 +101,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Job Sequencing Problem](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/JobSequencingProblem.cpp)
 
+[Subset Sum Problem](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/SubsetSumProblem.cpp)
+
 
 ## LeetCode
 
@@ -197,3 +199,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [3 Sum Closest](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/3SumClosest.cpp)
 
 [Beautiful Array](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/BeautifulArray.cpp)
+
+[01 Matrix](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/01Matrix.cpp)
