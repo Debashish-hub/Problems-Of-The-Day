@@ -103,6 +103,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Subset Sum Problem](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/SubsetSumProblem.cpp)
 
+[Flood Fill Algo](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/FloodFillAlgo.cpp)
+
 
 ## LeetCode
 
@@ -201,3 +203,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Beautiful Array](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/BeautifulArray.cpp)
 
 [01 Matrix](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/01Matrix.cpp)
+
+[Map Sum Pairs](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MapSumPairs.cpp)
