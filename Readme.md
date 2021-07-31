@@ -105,6 +105,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Flood Fill Algo](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/FloodFillAlgo.cpp)
 
+[Word Boggle](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/WordBoggle.cpp)
+
 
 ## LeetCode
 
@@ -205,3 +207,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [01 Matrix](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/01Matrix.cpp)
 
 [Map Sum Pairs](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MapSumPairs.cpp)
+
+[Tapping Rain Water](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/TappingRainWater.cpp)
