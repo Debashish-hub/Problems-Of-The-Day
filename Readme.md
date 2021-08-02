@@ -109,6 +109,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Maximum No Of 1](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/MaximumNoOf1.cpp)
 
+[Geek Collect The Balls](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/GeekCollectTheBalls.cpp)
+
 
 ## LeetCode
 
@@ -213,3 +215,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Tapping Rain Water](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/TappingRainWater.cpp)
 
 [Making A Large Island](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MakingALargeIsland.cpp)
+
+[Two Sum](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/TwoSum.cpp)
