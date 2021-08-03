@@ -111,6 +111,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Geek Collect The Balls](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/GeekCollectTheBalls.cpp)
 
+[Smallest Window In A String Containing All The Characters Of Another String](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/SmallestWindowInAStringContainingAllTheCharactersOfAnotherString.cpp)
+
 
 ## LeetCode
 
@@ -217,3 +219,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Making A Large Island](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/MakingALargeIsland.cpp)
 
 [Two Sum](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/TwoSum.cpp)
+
+[Subsets 2](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/Subsets2.cpp)
