@@ -113,6 +113,8 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 
 [Smallest Window In A String Containing All The Characters Of Another String](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/SmallestWindowInAStringContainingAllTheCharactersOfAnotherString.cpp)
 
+[Sequence Of Sequence](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/GeeksFoGeeks/SequenceOfSequence.cpp)
+
 
 ## LeetCode
 
@@ -221,3 +223,5 @@ Solving Problems of the day from <b>Geeks For Geeks</b> and <b>LeetCode</b>
 [Two Sum](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/TwoSum.cpp)
 
 [Subsets 2](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/Subsets2.cpp)
+
+[Path Sum 3](https://github.com/Debashish-hub/Problems-Of-The-Day/blob/main/LeetCode/PathSum3.cpp)
